@@ -1,2 +1,2 @@
 # Simulacion-eventos-discretos
-Proyecto
+Proyecto de curso "Teoría de la Simulación"
